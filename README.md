@@ -94,3 +94,9 @@ Through this project, I learned how to:
 This repository represents my growth as a **Student Digital Ambassador** and my commitment to becoming a digitally skilled Aerospace Engineer.
 
 ---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and learn from it.
+
+---
